@@ -1,6 +1,6 @@
 Name:		texlive-doctools
 Version:	34474
-Release:	1
+Release:	2
 Summary:	Tools for the documentation of LaTeX code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/doctools
