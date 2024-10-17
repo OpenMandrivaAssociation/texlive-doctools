@@ -3,7 +3,7 @@ Version:	34474
 Release:	2
 Summary:	Tools for the documentation of LaTeX code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/doctools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/doctools
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/doctools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/doctools.doc.r%{version}.tar.xz
